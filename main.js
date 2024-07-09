@@ -1,3 +1,3 @@
-import './assets/css/index.css';
+import './index.css';
 
 console.log("Hello world!");
